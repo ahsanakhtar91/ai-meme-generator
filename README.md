@@ -3,11 +3,11 @@
 An AI-powered meme generator mobile app that runs **entirely on-device** using Meta's ExecuTorch runtime. Generate memes with AI-generated text and images - no cloud APIs, no internet required for inference.
 
 <p align="center">
-  <img height="430" alt="Loading Screen" src="https://github.com/user-attachments/assets/1eadac66-6e3c-41c6-a820-d1fecf202815" />
-  <img height="430" alt="Home Screen" src="https://github.com/user-attachments/assets/df6dffd1-19fb-4b8d-aea4-bb9f3a55001f" />
-  <img height="430" alt="Generating Meme" src="https://github.com/user-attachments/assets/4a12f9a5-1969-4fca-b504-1343c67cfc63" />
-  <img height="430" alt="Generated Meme 1" src="https://github.com/user-attachments/assets/507a28f0-ccfe-48d9-98d2-cef68c70394b" />
-  <img height="430" alt="Generated Meme 2" src="https://github.com/user-attachments/assets/21086ec0-316d-42b7-a69b-3b0b535501ac" />
+  <img height="400" alt="Loading Screen" src="https://github.com/user-attachments/assets/1eadac66-6e3c-41c6-a820-d1fecf202815" />
+  <img height="400" alt="Home Screen" src="https://github.com/user-attachments/assets/df6dffd1-19fb-4b8d-aea4-bb9f3a55001f" />
+  <img height="400" alt="Generating Meme" src="https://github.com/user-attachments/assets/4a12f9a5-1969-4fca-b504-1343c67cfc63" />
+  <img height="400" alt="Generated Meme 1" src="https://github.com/user-attachments/assets/507a28f0-ccfe-48d9-98d2-cef68c70394b" />
+  <img height="400" alt="Generated Meme 2" src="https://github.com/user-attachments/assets/21086ec0-316d-42b7-a69b-3b0b535501ac" />
 </p>
 
 ## Features
