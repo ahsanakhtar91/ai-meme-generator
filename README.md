@@ -3,11 +3,11 @@
 A **React Native** mobile app that generates memes using **on-device AI inference** (**Local AI**) powered by **Meta's ExecuTorch** runtime (`react-native-executorch` lib). Combines **Llama 3.2 LLM** for text generation and **Stable Diffusion** model for image generation - all running locally on **iOS** and **Android**. No cloud APIs, runs fully offline, privacy-first.
 
 <p align="center">
-  <img height="380" alt="Loading Screen" src="https://github.com/user-attachments/assets/1eadac66-6e3c-41c6-a820-d1fecf202815" />
-  <img height="380" alt="Home Screen" src="https://github.com/user-attachments/assets/df6dffd1-19fb-4b8d-aea4-bb9f3a55001f" />
-  <img height="380" alt="Generating Meme" src="https://github.com/user-attachments/assets/4a12f9a5-1969-4fca-b504-1343c67cfc63" />
-  <img height="380" alt="Generated Meme 1" src="https://github.com/user-attachments/assets/507a28f0-ccfe-48d9-98d2-cef68c70394b" />
-  <img height="380" alt="Generated Meme 2" src="https://github.com/user-attachments/assets/21086ec0-316d-42b7-a69b-3b0b535501ac" />
+  <img height="350" alt="Loading Screen" src="https://github.com/user-attachments/assets/1eadac66-6e3c-41c6-a820-d1fecf202815" />
+  <img height="350" alt="Home Screen" src="https://github.com/user-attachments/assets/df6dffd1-19fb-4b8d-aea4-bb9f3a55001f" />
+  <img height="350" alt="Generating Meme" src="https://github.com/user-attachments/assets/4a12f9a5-1969-4fca-b504-1343c67cfc63" />
+  <img height="350" alt="Generated Meme 1" src="https://github.com/user-attachments/assets/507a28f0-ccfe-48d9-98d2-cef68c70394b" />
+  <img height="350" alt="Generated Meme 2" src="https://github.com/user-attachments/assets/21086ec0-316d-42b7-a69b-3b0b535501ac" />
 </p>
 
 ## Features
