@@ -167,7 +167,7 @@ function LLMScreen() {
 
       // Generate image with custom parameters
       // Parameters: prompt, imageSize, numSteps, seed
-      const image = await imageModel.generate(prompt, 512, numSteps, -1);
+      const image = await imageModel.generate("Hi, you are a helpful assistant, generate a meme image as per this prompt: " + prompt, 512, numSteps, -1);
       console.log('Generated image successfully');
 
       // Add assistant message with generated meme text and image
